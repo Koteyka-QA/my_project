@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/my_project/.pytest_cache" />
+      <excludeFolder url="file://$MODULE_DIR$/my_project/api_tests/.pytest_cache" />
+      <excludeFolder url="file://$MODULE_DIR$/my_project/api_tests/.pytest_cache/v" />
+      <excludeFolder url="file://$MODULE_DIR$/my_project/api_tests/helsi_get/.pytest_cache" />
+      <excludeFolder url="file://$MODULE_DIR$/my_project/api_tests/helsi_post/.pytest_cache" />
+      <excludeFolder url="file://$MODULE_DIR$/my_project/api_tests/reqres_delete/.pytest_cache" />
+      <excludeFolder url="file://$MODULE_DIR$/my_project/api_tests/reqres_put/.pytest_cache" />
+      <excludeFolder url="file://$MODULE_DIR$/my_project/ui_tests/helsi_changecity/.pytest_cache" />
+      <excludeFolder url="file://$MODULE_DIR$/my_project/ui_tests/helsi_checkbox/.pytest_cache" />
+      <excludeFolder url="file://$MODULE_DIR$/my_project/ui_tests/helsi_scroll/.pytest_cache" />
+      <excludeFolder url="file://$MODULE_DIR$/my_project/ui_tests/rozetka_search/.pytest_cache" />
+      <excludeFolder url="file://$MODULE_DIR$/my_project/ui_tests/tabletki_dropdown/.pytest_cache" />
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.9 (my_project)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
